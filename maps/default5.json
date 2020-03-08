@@ -1,0 +1,17 @@
+{
+  "name": "Test",
+  "bricks_amount_x": 3,
+  "bricks_amount_y": 3,
+  "bricks_array": [
+    [true,true,true],
+    [true,true,true],
+    [true,true,true]],
+  "background_texture": "default_textures/background.jpg",
+  "racket_texture": "default_textures/racket.png",
+  "ball_texture": "default_textures/ball.png",
+  "brick_texture": "default_textures/brick.png",
+  "powerup_texture": "default_textures/powerup.png",
+  "lives": 3,
+  "ball_velocity": 10,
+  "font_color": "(0,0,0)"
+}
